@@ -8,10 +8,11 @@ Commands install modules
 ```bash
 npm install 
 ```
-* Star Server
+* `Star Server`
 ```bash
 npm run dev 
-``` or
+```
+`or`
 ```bash
 node index.js
 ```
